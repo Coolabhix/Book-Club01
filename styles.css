@@ -181,6 +181,9 @@ img:hover {
 }
 
 @media (max-width: 800px){
+	body {
+		max-height: 60vw;
+	}
 	html {
 	    margin: 0px;
 	    overflow-x: visible;
