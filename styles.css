@@ -183,6 +183,7 @@ img:hover {
 @media (max-width: 800px){
 	body {
 		max-height: 60vw;
+		margin:0px!important;
 	}
 	html {
 	    margin: 0px;
